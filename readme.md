@@ -16,6 +16,6 @@ Após o cadastro, o programa exibe todas as informações inseridas na tela.
 
 ## 🖼️ Exemplo de execução
 
-![Execução do Programa](teste-compilado.png)
+![Execução do Programa](teste-compilado-comparacao.png)
 
 > Imagem do programa sendo executado com entrada de dados e exibição dos resultados.
